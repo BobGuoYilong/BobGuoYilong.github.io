@@ -1,13 +1,13 @@
 # Site settings
 title: Bob's Coding Lab
-SEOTitle: 隔雨听竹的编程实验室 | Bob's Coding Lab
+SEOTitle: 鸽鱼的编程实验室 | Bob's Coding Lab
 header-img: img/post-bg-desk.jpg
 email: boblao0714@gmail.com
 description: "业精于勤荒于嬉，Keep Coding，Keep Improving"
-keyword: "Bob，Bob Guo，Bob's Coding Lab，隔雨听竹，隔雨听竹的编程实验室，鸽鱼, PegionFIsh"
+keyword: "Bob，Bob Guo，Bob's Coding Lab，鸽鱼, PegionFish"
 url: "https://pegionfish.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/BobGuoYilong/BobGuoYilong.github.io" # you code repository
+github_repo: "https://github.com/PegionFish/PegionFish.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: /img/隔雨听竹2.jpg      # use absolute URL, seeing it's used
 # SNS settings
 RSS: true
 zhihu_username:     ge-yu-ting-zhu-82
-github_username:    BobGuo0714
+github_username:    PegionFish
 
 
 
@@ -61,9 +61,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 4794b781b3c300b9ca7c                            #生成的clientID
   clientSecret: 55ee2becf199077a4a308415b5376d18b553066a    #生成的clientSecret
-  repo: BobGuoYilong.github.io    #仓库名称
-  owner: BobGuoYilong    #github用户名
-  admin: BobGuoYilong
+  repo: pegionfish.github.io    #仓库名称
+  owner: PegionFish    #github用户名
+  admin: PegionFish
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

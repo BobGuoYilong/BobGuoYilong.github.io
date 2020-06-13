@@ -14,7 +14,8 @@ published: True #write true to publish this article.
 [上一篇文章](/_posts/2020-6-13-Git_Doujin.md)里，你已经成功地注册了一个GitHub账户，从我的Github账户上复制了一个GitHub Pages的repo过来，在这篇文章里我会手把手指导你怎么把repo改成你自己的并安排上Github Pages。
 ## 0x10 Download to your machine
 第一步，我们需要把repo下载到电脑上。由于GitHub的网络原因，下载大量文档速度极为缓慢。我在子账号上的版本将会是一个最小系统的repo，这样会大幅简短下载时间；你也可以修改git的配置文件（Windows系统下在C:/Users/你的账户/.gitconfig），配置所有Git流量经过代理。
-![Alt text](/img/git/.gitconfig.jpg)在文档的末尾加上这么一段：
+![Alt text](/img/git/gitconfig.jpg)
+在文档的末尾加上这么一段：
 > [http]  
  Proxy = 代理地址:代理端口
 

@@ -3,7 +3,7 @@ layout: post
 author: Bob Guo
 title: 如何定义产品力
 subtitle: 笔记本评测之我见
-date: 2020-8-12
+date: 2020-8-15
 tags: 业界分析
 published: true #write true to publish this article.
 ---

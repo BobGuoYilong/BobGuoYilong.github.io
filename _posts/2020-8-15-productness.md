@@ -22,7 +22,7 @@ published: true #write true to publish this article.
 但是，如果在执行高负载任务（比如编译Linux内核）时，如果不接入AC电源，功耗会被锁死在15w，此时频率仅为2.8Ghz。不能说不够用，但是对于我这样一个性能取向型用户来说明显不够。
 ![alt text](/img/e7470/power_comsumption_while_compiling.png)
 如果插上AC电源，再次进行编译，测试结果也是只有15w的TDP。
-![alt text](/img/e7470/power_comsumption_while_compiling/w_ac.png)
+![alt text](/img/e7470/power_comsumption_while_compiling_w_ac.png)
 如果按照评判一般轻薄本的标准，这种性能释放水平显然仅仅是勉强合格。在它刚发售的2016年如此，在现在2020年更甚。我们看到小新Pro 13把35w的TDP普及到5000以下价位，如果你是一个普通的用户，这种性能释放相交于传统笔记本可谓降维打击。  
 但是，toB不一样。他们的使用场景不仅仅是宿舍，而是从飞机到高铁，从星巴克到会议室。35w的性能释放确实强劲，但对于他们来说纯粹是方向错了。他们需要的是安静、长续航，这个时候仅仅15w的性能释放就能做到这一点。  
 ## 为什么？

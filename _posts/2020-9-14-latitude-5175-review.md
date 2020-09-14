@@ -38,7 +38,7 @@ published: true #write true to publish this article.
 ## 配件
 聊到这台机器就不能不聊到它的配件。由于这台机器设计跟前代的Venue 11 Pro十分相似，以至于戴尔官方甚至专门提供了[在Latitude 5175上使用Venue 11 Pro配件的指南](https://www.dell.com/support/article/zh-cn/sln306163/%E6%88%B4%E5%B0%94%E6%97%85%E8%A1%8C%E9%94%AE%E7%9B%98-%E5%AD%98%E6%94%BE-%E5%BE%88%E9%95%BF%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%90%8E%E6%9C%AA%E6%A3%80%E6%B5%8B%E5%88%B0%E7%94%B5%E6%B1%A0?lang=zh)。官方支持使用上一代的配件，可以，这很商务。根据个人实际测试，V11P的键盘可以在5175上正常工作，V11P插上5175的拓展坞只能用于充电。
 ### 键盘
-![键盘正面]](/img/5175/keyboard_front.jpg)
+![键盘正面](/img/5175/keyboard_front.jpg)
 ![键盘背面，注意左上角安装备用手写笔的缺口](/img/5175/keyboard_rear.jpg)
 键盘手感优异，连接稳定，还可以额外提供一点电力使整台平板拥有近60Wh的电池（为什么是近?我的Unit有问题，没有电池，我也懒得查了），配合低功耗的处理器和屏幕，撑过8个小时没有一点问题。由于加装了电池，戴尔的设计人员也完全放飞自我，不需要像Surface TypeCover或类似的平板键盘一样追求极度轻薄的结果就是键盘的手感十分舒适，甚至在普通蚌壳笔记本里也属上乘。不过，same thing can't be said 'bout the touchpad.这个触控板的手感之差不禁让我想到我家的第一台笔记本，那可是IDE时代只有256M内存的Windows XP的东芝笔记本，这玩意儿的手感之差可想而知。不过，优秀的触摸屏也确实能够弥补这一点。
 ![键盘IO](/img/5175/keyboard_io.jpg)  

@@ -19,7 +19,7 @@ published: true #write true to publish this article.
 左侧是键盘触点，5+1设计。有一个点似乎已经磨损殆尽。不过，鉴于后文会提到的问题，我也不会为这台平板购置键盘。左右有凹槽可以通过磁铁锁定键盘，这个设计在平板上十分常见。
 ![alt text](/img/tabs3/volume.jpg)
 右侧是音量键和锁屏，SD卡与SIM卡槽也在这里。
-![alt text](/img/tabs3/iojpg)
+![alt text](/img/tabs3/io.jpg)
 底部除了两个扬声器之外，有一个USB3接口和一个3.5mm耳机接口。说来也奇怪，在Note FE上无法正常使用的Pixel 2耳机在这台机器上可以正常使用，就离谱
 ![alt text](/img/tabs3/top.jpg)
 顶部是另外两个扬声器，与底部的两个组成了四扬声器array，对于多媒体体验来说是很有用的。
@@ -57,7 +57,7 @@ Geekbench作为一个比较主流的移动端评测软件，尽管被冠上Apple
 在默认的设置下，对占用达28.8GiB的内置存储器进行跑分，结果如图所示。
 ![alt text](/img/tabs3/nand_occupy.jpg)
 ![alt text](/img/tabs3/androbench_set.jpg)
-![alt text](/img/tabs3/androbench_result.jpg)gk_0.jp解。
+![alt text](/img/tabs3/androbench_result.jpg)
 ## 生产力？
 这一块内容纯粹是心血来潮之作。我前段时间把自己的主力台式机（B75+E3V2）卖掉之后就无法开展工作。ThinkPad T430的屏幕难以让我满意，外接屏幕又过于繁琐，内屏质量又差到令人发指，我就结结实实地过了两天没电脑的生活。加上为了把我发表在网上的[这篇文章](https://pegionfish.github.io/2020/09/14/latitude-5175-review/)搬运到酷安，被迫拿出平板电脑和键盘使用。  
 ![alt text](/img/tabs3/multiapp.jpg)

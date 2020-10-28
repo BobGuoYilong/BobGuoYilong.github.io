@@ -19,7 +19,7 @@ published: true #write true to publish this article.
 左侧是键盘触点，5+1设计。有一个点似乎已经磨损殆尽。不过，鉴于后文会提到的问题，我也不会为这台平板购置键盘。左右有凹槽可以通过磁铁锁定键盘，这个设计在平板上十分常见。
 ![alt text](/img/tabs3/volume.jpg)
 右侧是音量键和锁屏，SD卡与SIM卡槽也在这里。
-![alt text](/img/tabs3/io.jpg)
+![alt text](/img/tabs3/iojpg)
 底部除了两个扬声器之外，有一个USB3接口和一个3.5mm耳机接口。说来也奇怪，在Note FE上无法正常使用的Pixel 2耳机在这台机器上可以正常使用，就离谱
 ![alt text](/img/tabs3/top.jpg)
 顶部是另外两个扬声器，与底部的两个组成了四扬声器array，对于多媒体体验来说是很有用的。
@@ -58,6 +58,7 @@ Geekbench作为一个比较主流的移动端评测软件，尽管被冠上Apple
 ![alt text](/img/tabs3/nand_occupy.jpg)
 ![alt text](/img/tabs3/androbench_set.jpg)
 ![alt text](/img/tabs3/androbench_result.jpg)
+作为一台三年有余的平板电脑，近300M的顺序读速度和75M的顺序写速度仍然十分优秀；而43.44M的随机读取和11.83M的随机写入则更多是因为eMMC的架构限制。在我眼里，这台平板唯一一个拖了后腿的就是这颗eMMC 5.1的存储芯片，也是不知道三星设计团队怎么考虑的，是否真的认为平板并不需要极高的存储性能？这种设计思路是在是令人无法理解。
 ## 生产力？
 这一块内容纯粹是心血来潮之作。我前段时间把自己的主力台式机（B75+E3V2）卖掉之后就无法开展工作。ThinkPad T430的屏幕难以让我满意，外接屏幕又过于繁琐，内屏质量又差到令人发指，我就结结实实地过了两天没电脑的生活。加上为了把我发表在网上的[这篇文章](https://pegionfish.github.io/2020/09/14/latitude-5175-review/)搬运到酷安，被迫拿出平板电脑和键盘使用。  
 ![alt text](/img/tabs3/multiapp.jpg)

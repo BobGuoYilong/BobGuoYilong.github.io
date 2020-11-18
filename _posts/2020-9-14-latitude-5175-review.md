@@ -4,7 +4,7 @@ author: Bob Guo
 title: 学生的工具，抑或是商务人士的利器？
 subtitle: 戴尔Latitude 5175平板电脑评测
 date: 2020-9-14
-tags: 戴尔 捡垃圾 Latitude 平板
+tags: 戴尔 捡垃圾 Latitude 平板 笔记本
 published: true #write true to publish this article.
 ---
 

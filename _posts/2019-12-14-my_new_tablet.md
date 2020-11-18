@@ -4,7 +4,7 @@ author: Bob Guo
 title: 我的新平板
 subtitle: Eve V Core m3版使用评测
 date: 2019-12-14
-tags: 平板 Eve
+tags: 平板 Eve 笔记本
 published: true
 ---
 

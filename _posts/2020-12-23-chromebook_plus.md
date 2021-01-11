@@ -5,7 +5,7 @@ title: 国产强芯
 subtitle: 三星Chromebook Plus评测兼ChromeOS使用手记
 date: 2020-12-23
 tags: 捡垃圾 Chromebook ChromeOS ARM RK3399
-header-img: /img/chromebook_plus/tent.jpg
+header-img: https://pic1.zhimg.com/v2-54d5c4407c334f0426b162f6be218226_r.jpg?source=172ae18b
 published: True #write true to publish this article.
 ---
 # 前言

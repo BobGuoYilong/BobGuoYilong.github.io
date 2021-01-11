@@ -5,7 +5,8 @@ title: 国产强芯
 subtitle: 三星Chromebook Plus评测兼ChromeOS使用手记
 date: 2020-12-23
 tags: 捡垃圾 Chromebook ChromeOS ARM RK3399
-published: False #write true to publish this article.
+header-img: /img/chromebook_plus/tent.jpg
+published: True #write true to publish this article.
 ---
 # 前言
 说实话，对于“国产芯片”，我个人一直是有所保留的。一来作为一个老玩家，对于汉芯、红芯（虽然这玩意是浏览器）等一系列沽名钓誉之徒的行为感到不齿以至于对所有打着国产旗号大肆宣传的科技产品来自骨子里的不信任；二来作为一名生活所迫的垃圾佬，即使对于那些真的做出成绩来的国产芯片我也难以轻松入手。而第三，现有的国产设备很多难以与我长期使用的部分海外服务无缝连接，这对于我的使用来说还是有一点麻烦的。于是，我手上的各种产品要么是Intel，要么是AMD，要么是Qualcomm，要么是Exynos，很少有来自国产企业的设备。  
@@ -13,8 +14,16 @@ published: False #write true to publish this article.
 虽然是来自“PC业务纯粹玩玩”的三星，但由于这台机器相较于传统笔记本电脑更偏向于手机/平板，加上所有Chromebook的软件部分都由Google搞定，实在没有三星软件团队“瞎搞”的空间，配合Chromebook上少有的、支持SPen的高素质屏幕与360度转轴、双USB-C，这台机器确实称得上高端Chromebook。  
 # 拆机与部件说明
 拆机过程十分简单，只需要螺丝刀和翘片即可。由于机器的高度一体性，具体的过程无需多言，我就只放图了。
+![bottom panel](/img/chromebook_plus/d.jpg)
+![bottom panel(inside)](/img/chromebook_plus/d2.jpg)
+
 ## 总览
 这台机器的内部做工还是很不错的。高度集成、做工精良，确实是高端笔记本电脑的水准。
+![Overview](/img/chromebook_plus/overall.jpg)
+![Everyting except for speakers d-board and buttons](/img/chromebook_plus/everything.jpg)
+![speakers and daughter board](/img/chromebook_plus/speaker.jpg)
+![volume and power](/img/chromebook_plus/button.jpg)
+![Thickness(Compare to ThinkPad T430)](/img/chromebook_plus/thick.jpg)
 ## 屏幕
 屏幕是这台机器的一个亮点。使用2400x1600分辨率，3:2的IPS触屏，支持SPen和360度旋转，加上RK3399原生arm64架构，这台Chromebook也是一台完美的Android 9平板。当然，这里的完美要打引号。这块LQ123P1JX31面板由于拥有100%sRGB色域，在浏览多媒体内容的时候十分舒适，且由于B面全玻璃贴合工艺也不会出现传统IPS的漏光问题。鉴于ChromeOS上专业内容创作应用压倒性的稀缺，我个人觉得这块屏幕已经足够优秀。  
 ## 键盘和触摸板

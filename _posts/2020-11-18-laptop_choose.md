@@ -5,7 +5,7 @@ title: 如何选购心仪的笔记本电脑
 subtitle: 笔记本电脑选购指南
 date: 2020-11-18
 tags: 笔记本 选购
-published: false #write true to publish this article.
+published: ture #write true to publish this article.
 ---
 作为一个笔记本玩家，我竟然没有认真写过一篇笔记本选购指南。好吧，那么现在开始。  
 这篇文章主要分为两个部分，如果没有特殊说明，所有代表时间的词汇（例如“目前”、“现在”、“当下”等均代表文章更新的时间）  

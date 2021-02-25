@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="creo-03" Threads="1" Processes="1">
+    <Test Index="1" Weight="8.33" Frames="952" Seconds="16.22" FPS="58.70" TimeStamp="02/24/21 23:59:34" />
+    <Test Index="2" Weight="8.33" Frames="446" Seconds="17.20" FPS="25.93" TimeStamp="02/25/21 00:00:09" />
+    <Test Index="3" Weight="8.34" Frames="788" Seconds="24.02" FPS="32.81" TimeStamp="02/25/21 00:00:54" />
+    <Test Index="4" Weight="10.00" Frames="1760" Seconds="15.61" FPS="112.75" TimeStamp="02/25/21 00:01:19" />
+    <Test Index="5" Weight="10.00" Frames="3451" Seconds="15.19" FPS="227.22" TimeStamp="02/25/21 00:01:40" />
+    <Test Index="6" Weight="10.00" Frames="1332" Seconds="16.72" FPS="79.67" TimeStamp="02/25/21 00:02:06" />
+    <Test Index="7" Weight="10.00" Frames="1056" Seconds="19.63" FPS="53.81" TimeStamp="02/25/21 00:02:41" />
+    <Test Index="8" Weight="10.00" Frames="1180" Seconds="16.53" FPS="71.38" TimeStamp="02/25/21 00:03:07" />
+    <Test Index="9" Weight="10.00" Frames="440" Seconds="17.97" FPS="24.49" TimeStamp="02/25/21 00:03:45" />
+    <Test Index="10" Weight="3.75" Frames="1390" Seconds="15.09" FPS="92.09" TimeStamp="02/25/21 00:04:12" />
+    <Test Index="11" Weight="3.75" Frames="2233" Seconds="15.98" FPS="139.69" TimeStamp="02/25/21 00:04:34" />
+    <Test Index="12" Weight="3.75" Frames="882" Seconds="15.25" FPS="57.84" TimeStamp="02/25/21 00:05:01" />
+    <Test Index="13" Weight="3.75" Frames="3318" Seconds="15.31" FPS="216.69" TimeStamp="02/25/21 00:05:22" />
+    <Composite Score="67.24" />
+</Results>

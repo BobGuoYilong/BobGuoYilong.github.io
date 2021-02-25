@@ -1,0 +1,40 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       catia-06            
+viewset library      viewset config       catia               
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\catia-06
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Wed Feb 24 23:55:08 2021
+Number of frames run: 318, Test period: 16.67 (sec)   19.07	frames/sec	--	catiaV5test1
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Wed Feb 24 23:55:35 2021
+Number of frames run: 609, Test period: 17.47 (sec)   34.86	frames/sec	--	catiaV5test2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Wed Feb 24 23:56:05 2021
+Number of frames run: 1647, Test period: 21.03 (sec)   78.31	frames/sec	--	catiaV5test3
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Wed Feb 24 23:56:37 2021
+Number of frames run: 1034, Test period: 20.92 (sec)   49.42	frames/sec	--	catiaV5test4
+Wed Feb 24 23:57:25 2021
+Number of frames run: 544, Test period: 22.63 (sec)   24.04	frames/sec	--	CATIA_3DX_repEngine
+Wed Feb 24 23:58:02 2021
+Number of frames run: 544, Test period: 16.05 (sec)   33.90	frames/sec	--	CATIA_3DX_loftJet
+Wed Feb 24 23:58:36 2021
+Number of frames run: 968, Test period: 15.62 (sec)   61.96	frames/sec	--	CATIA_3DX_car
+Wed Feb 24 23:59:04 2021
+Number of frames run: 1183, Test period: 15.36 (sec)   76.99	frames/sec	--	CATIA_3DX_Multi_car

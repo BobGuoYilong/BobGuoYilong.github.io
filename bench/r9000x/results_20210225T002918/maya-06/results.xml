@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="maya-06" Threads="1" Processes="16">
+    <Test Index="1" Weight="8.33" Frames="1608" Seconds="16.56" FPS="97.08" TimeStamp="02/25/21 00:08:42" />
+    <Test Index="2" Weight="8.33" Frames="8988" Seconds="15.19" FPS="591.78" TimeStamp="02/25/21 00:08:58" />
+    <Test Index="3" Weight="12.50" Frames="1701" Seconds="15.34" FPS="110.86" TimeStamp="02/25/21 00:09:22" />
+    <Test Index="4" Weight="12.50" Frames="4374" Seconds="15.19" FPS="288.01" TimeStamp="02/25/21 00:09:43" />
+    <Test Index="5" Weight="12.50" Frames="3585" Seconds="15.39" FPS="232.93" TimeStamp="02/25/21 00:10:12" />
+    <Test Index="6" Weight="8.33" Frames="1680" Seconds="15.70" FPS="106.98" TimeStamp="02/25/21 00:10:35" />
+    <Test Index="7" Weight="8.33" Frames="5988" Seconds="18.01" FPS="332.39" TimeStamp="02/25/21 00:11:02" />
+    <Test Index="8" Weight="12.50" Frames="6208" Seconds="16.38" FPS="379.11" TimeStamp="02/25/21 00:11:31" />
+    <Test Index="9" Weight="8.34" Frames="6424" Seconds="15.13" FPS="424.73" TimeStamp="02/25/21 00:11:58" />
+    <Test Index="10" Weight="8.34" Frames="1572" Seconds="18.33" FPS="85.77" TimeStamp="02/25/21 00:12:39" />
+    <Composite Score="217.39" />
+</Results>

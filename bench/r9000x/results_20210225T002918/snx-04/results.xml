@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="snx-04" Threads="1" Processes="1">
+    <Test Index="1" Weight="7.50" Frames="1440" Seconds="17.03" FPS="84.55" TimeStamp="02/25/21 00:16:22" />
+    <Test Index="2" Weight="10.00" Frames="720" Seconds="68.47" FPS="10.52" TimeStamp="02/25/21 00:17:33" />
+    <Test Index="3" Weight="20.00" Frames="720" Seconds="74.44" FPS="9.67" TimeStamp="02/25/21 00:18:50" />
+    <Test Index="4" Weight="5.00" Frames="720" Seconds="87.44" FPS="8.23" TimeStamp="02/25/21 00:20:21" />
+    <Test Index="5" Weight="7.50" Frames="360" Seconds="49.83" FPS="7.22" TimeStamp="02/25/21 00:21:14" />
+    <Test Index="6" Weight="7.50" Frames="2160" Seconds="17.50" FPS="123.43" TimeStamp="02/25/21 00:21:34" />
+    <Test Index="7" Weight="10.00" Frames="720" Seconds="53.53" FPS="13.45" TimeStamp="02/25/21 00:22:29" />
+    <Test Index="8" Weight="20.00" Frames="720" Seconds="57.45" FPS="12.53" TimeStamp="02/25/21 00:23:29" />
+    <Test Index="9" Weight="5.00" Frames="720" Seconds="91.50" FPS="7.87" TimeStamp="02/25/21 00:25:04" />
+    <Test Index="10" Weight="7.50" Frames="360" Seconds="33.52" FPS="10.74" TimeStamp="02/25/21 00:25:41" />
+    <Composite Score="14.64" />
+</Results>

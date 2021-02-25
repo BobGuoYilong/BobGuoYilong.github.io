@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="energy-03" Threads="1" Processes="1">
+    <Test Index="1" Weight="16.67" Frames="360" Seconds="24.39" FPS="14.76" TimeStamp="02/25/21 00:05:48" />
+    <Test Index="2" Weight="16.67" Frames="360" Seconds="21.16" FPS="17.02" TimeStamp="02/25/21 00:06:13" />
+    <Test Index="3" Weight="16.67" Frames="180" Seconds="19.75" FPS="9.11" TimeStamp="02/25/21 00:06:54" />
+    <Test Index="4" Weight="16.67" Frames="360" Seconds="16.97" FPS="21.22" TimeStamp="02/25/21 00:07:12" />
+    <Test Index="5" Weight="16.66" Frames="360" Seconds="17.02" FPS="21.16" TimeStamp="02/25/21 00:07:33" />
+    <Test Index="6" Weight="16.66" Frames="270" Seconds="21.99" FPS="12.28" TimeStamp="02/25/21 00:08:16" />
+    <Composite Score="15.26" />
+</Results>

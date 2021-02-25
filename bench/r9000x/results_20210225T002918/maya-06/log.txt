@@ -1,0 +1,50 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       maya-06             
+viewset library      viewset config       maya                
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       16                  
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\maya-06
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:08:42 2021
+Number of frames run: 1608, Test period: 16.56 (sec)   97.08	frames/sec	--	Maya_01
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:08:58 2021
+Number of frames run: 8988, Test period: 15.19 (sec)  591.78	frames/sec	--	Maya_02
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:09:22 2021
+Number of frames run: 1701, Test period: 15.34 (sec)  110.86	frames/sec	--	Maya_03
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:09:43 2021
+Number of frames run: 4374, Test period: 15.19 (sec)  288.01	frames/sec	--	Maya_04
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:10:12 2021
+Number of frames run: 3585, Test period: 15.39 (sec)  232.93	frames/sec	--	Maya_05
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:10:35 2021
+Number of frames run: 1680, Test period: 15.70 (sec)  106.98	frames/sec	--	Maya_06
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:11:02 2021
+Number of frames run: 5988, Test period: 18.01 (sec)  332.39	frames/sec	--	Maya_07
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:11:31 2021
+Number of frames run: 6208, Test period: 16.38 (sec)  379.11	frames/sec	--	Maya_08
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:11:58 2021
+Number of frames run: 6424, Test period: 15.13 (sec)  424.73	frames/sec	--	Maya_09
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:12:39 2021
+Number of frames run: 1572, Test period: 18.33 (sec)   85.77	frames/sec	--	Maya_10

@@ -1,0 +1,59 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       creo-03             
+viewset library      viewset config       creo                
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\creo-03
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Wed Feb 24 23:59:34 2021
+Number of frames run: 952, Test period: 16.22 (sec)   58.70	frames/sec	--	Creo_03_test_01
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:00:09 2021
+Number of frames run: 446, Test period: 17.20 (sec)   25.93	frames/sec	--	Creo_03_test_02
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:00:54 2021
+Number of frames run: 788, Test period: 24.02 (sec)   32.81	frames/sec	--	Creo_03_test_03
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:01:19 2021
+Number of frames run: 1760, Test period: 15.61 (sec)  112.75	frames/sec	--	Creo_03_test_04
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:01:40 2021
+Number of frames run: 3451, Test period: 15.19 (sec)  227.22	frames/sec	--	Creo_03_test_05
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:02:06 2021
+Number of frames run: 1332, Test period: 16.72 (sec)   79.67	frames/sec	--	Creo_03_test_06
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:02:41 2021
+Number of frames run: 1056, Test period: 19.63 (sec)   53.81	frames/sec	--	Creo_03_test_07
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:03:07 2021
+Number of frames run: 1180, Test period: 16.53 (sec)   71.38	frames/sec	--	Creo_03_test_08
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:03:45 2021
+Number of frames run: 440, Test period: 17.97 (sec)   24.49	frames/sec	--	Creo_03_test_09
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:04:12 2021
+Number of frames run: 1390, Test period: 15.09 (sec)   92.09	frames/sec	--	Creo_03_test_10
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:04:34 2021
+Number of frames run: 2233, Test period: 15.98 (sec)  139.69	frames/sec	--	Creo_03_test_11
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:05:01 2021
+Number of frames run: 882, Test period: 15.25 (sec)   57.84	frames/sec	--	Creo_03_test_12
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:05:22 2021
+Number of frames run: 3318, Test period: 15.31 (sec)  216.69	frames/sec	--	Creo_03_test_13

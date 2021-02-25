@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="solidworks-05" Threads="1" Processes="1">
+    <Test Index="1" Weight="10.00" Frames="3200" Seconds="15.69" FPS="203.98" TimeStamp="02/25/21 00:26:03" />
+    <Test Index="2" Weight="10.00" Frames="4800" Seconds="16.11" FPS="297.95" TimeStamp="02/25/21 00:26:20" />
+    <Test Index="3" Weight="15.00" Frames="6000" Seconds="15.69" FPS="382.48" TimeStamp="02/25/21 00:26:38" />
+    <Test Index="4" Weight="5.00" Frames="5600" Seconds="15.52" FPS="360.94" TimeStamp="02/25/21 00:26:55" />
+    <Test Index="5" Weight="15.00" Frames="3200" Seconds="17.11" FPS="187.04" TimeStamp="02/25/21 00:27:13" />
+    <Test Index="6" Weight="10.00" Frames="2800" Seconds="15.36" FPS="182.29" TimeStamp="02/25/21 00:27:30" />
+    <Test Index="7" Weight="10.00" Frames="4800" Seconds="16.17" FPS="296.81" TimeStamp="02/25/21 00:27:47" />
+    <Test Index="8" Weight="10.00" Frames="2400" Seconds="17.92" FPS="133.91" TimeStamp="02/25/21 00:28:06" />
+    <Test Index="9" Weight="5.00" Frames="400" Seconds="27.16" FPS="14.73" TimeStamp="02/25/21 00:28:36" />
+    <Test Index="10" Weight="10.00" Frames="400" Seconds="38.11" FPS="10.50" TimeStamp="02/25/21 00:29:18" />
+    <Composite Score="151.69" />
+</Results>

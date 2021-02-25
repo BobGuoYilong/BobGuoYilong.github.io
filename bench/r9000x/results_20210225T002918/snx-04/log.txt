@@ -1,0 +1,50 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       snx-04              
+viewset library      viewset config       snx                 
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\snx-04
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:16:22 2021
+Number of frames run: 1440, Test period: 17.03 (sec)   84.55	frames/sec	--	NX8_AdvancedStudioAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:17:33 2021
+Number of frames run: 720, Test period: 68.47 (sec)   10.52	frames/sec	--	NX8_ShadedAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:18:50 2021
+Number of frames run: 720, Test period: 74.44 (sec)    9.67	frames/sec	--	NX8_ShadedWithEdgeAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:20:21 2021
+Number of frames run: 720, Test period: 87.44 (sec)    8.23	frames/sec	--	NX8_StudioAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:21:14 2021
+Number of frames run: 360, Test period: 49.83 (sec)    7.22	frames/sec	--	NX8_powerTrain_Wireframe
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:21:34 2021
+Number of frames run: 2160, Test period: 17.50 (sec)  123.43	frames/sec	--	NX8_suvAdvancedStudio
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:22:29 2021
+Number of frames run: 720, Test period: 53.53 (sec)   13.45	frames/sec	--	NX8_suvShaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:23:29 2021
+Number of frames run: 720, Test period: 57.45 (sec)   12.53	frames/sec	--	NX8_suvShadedWithEdge
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:25:04 2021
+Number of frames run: 720, Test period: 91.50 (sec)    7.87	frames/sec	--	NX8_suvStudio2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:25:41 2021
+Number of frames run: 360, Test period: 33.52 (sec)   10.74	frames/sec	--	NX8_suvWireframe

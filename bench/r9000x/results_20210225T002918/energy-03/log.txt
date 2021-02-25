@@ -1,0 +1,44 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       energy-03           
+viewset library      viewset config       energy              
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\energy-03
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:05:48 2021
+Number of frames run: 360, Test period: 24.39 (sec)   14.76	frames/sec	--	Test1
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:06:13 2021
+Number of frames run: 360, Test period: 21.16 (sec)   17.02	frames/sec	--	Test2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:06:54 2021
+Number of frames run: 180, Test period: 19.75 (sec)    9.11	frames/sec	--	Test3
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:07:12 2021
+Number of frames run: 360, Test period: 16.97 (sec)   21.22	frames/sec	--	Test4
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:07:33 2021
+Number of frames run: 360, Test period: 17.02 (sec)   21.16	frames/sec	--	Test5
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+SPECviewperf MESSAGE: Viewset Message: 1900 / 0 => m_TessFactor of 1
+Thu Feb 25 00:08:16 2021
+Number of frames run: 270, Test period: 21.99 (sec)   12.28	frames/sec	--	Test6

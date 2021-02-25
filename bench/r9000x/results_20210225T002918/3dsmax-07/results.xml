@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="3dsmax-07" Threads="1" Processes="1">
+    <Test Index="1" Weight="9.52" Frames="1430" Seconds="15.58" FPS="91.80" TimeStamp="02/24/21 23:50:22" />
+    <Test Index="2" Weight="9.52" Frames="1188" Seconds="15.22" FPS="78.07" TimeStamp="02/24/21 23:50:39" />
+    <Test Index="3" Weight="9.52" Frames="1664" Seconds="15.88" FPS="104.82" TimeStamp="02/24/21 23:51:04" />
+    <Test Index="4" Weight="9.52" Frames="2835" Seconds="15.33" FPS="184.96" TimeStamp="02/24/21 23:51:24" />
+    <Test Index="5" Weight="9.52" Frames="408" Seconds="24.78" FPS="16.46" TimeStamp="02/24/21 23:52:11" />
+    <Test Index="6" Weight="9.52" Frames="408" Seconds="19.70" FPS="20.71" TimeStamp="02/24/21 23:52:51" />
+    <Test Index="7" Weight="9.52" Frames="392" Seconds="15.44" FPS="25.39" TimeStamp="02/24/21 23:53:16" />
+    <Test Index="8" Weight="9.52" Frames="360" Seconds="15.17" FPS="23.73" TimeStamp="02/24/21 23:53:43" />
+    <Test Index="9" Weight="9.52" Frames="1961" Seconds="15.36" FPS="127.68" TimeStamp="02/24/21 23:54:03" />
+    <Test Index="10" Weight="9.52" Frames="2242" Seconds="15.16" FPS="147.93" TimeStamp="02/24/21 23:54:22" />
+    <Test Index="11" Weight="4.80" Frames="1218" Seconds="15.20" FPS="80.12" TimeStamp="02/24/21 23:54:43" />
+    <Composite Score="60.18" />
+</Results>

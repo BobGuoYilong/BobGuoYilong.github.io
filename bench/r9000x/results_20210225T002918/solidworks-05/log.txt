@@ -1,0 +1,50 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       solidworks-05       
+viewset library      viewset config       sw                  
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       1900                
+window height        viewset config       1060                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\solidworks-05
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:26:03 2021
+Number of frames run: 3200, Test period: 15.69 (sec)  203.98	frames/sec	--	SW2020_RallyCar_Realview
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:26:20 2021
+Number of frames run: 4800, Test period: 16.11 (sec)  297.95	frames/sec	--	SW2020_RallyCar_ShadedEdges
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:26:38 2021
+Number of frames run: 6000, Test period: 15.69 (sec)  382.48	frames/sec	--	SW2020_RallyCar_Shaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:26:55 2021
+Number of frames run: 5600, Test period: 15.52 (sec)  360.94	frames/sec	--	SW2020_Excavator_Shaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:27:13 2021
+Number of frames run: 3200, Test period: 17.11 (sec)  187.04	frames/sec	--	SW2020_Excavator_Realview
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:27:30 2021
+Number of frames run: 2800, Test period: 15.36 (sec)  182.29	frames/sec	--	SW2020_JetEngine_ShadedEdges
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:27:47 2021
+Number of frames run: 4800, Test period: 16.17 (sec)  296.81	frames/sec	--	SW2020_JetEngine_Shaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:28:06 2021
+Number of frames run: 2400, Test period: 17.92 (sec)  133.91	frames/sec	--	SW2020_JetEngine_Realview
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:28:36 2021
+Number of frames run: 400, Test period: 27.16 (sec)   14.73	frames/sec	--	SW2020_SpaceCrawler_Shaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: NVIDIA Corporation GeForce RTX 2060 with Max-Q Design/PCIe/SSE2 4.6.0 NVIDIA 461.40.
+Thu Feb 25 00:29:18 2021
+Number of frames run: 400, Test period: 38.11 (sec)   10.50	frames/sec	--	SW2020_SpaceCrawler_ShadedEdges

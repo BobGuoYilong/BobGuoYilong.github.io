@@ -1,0 +1,903 @@
+<!--
+Copyright © 1995-2020 Standard Performance Evaluation Corporation (SPEC). All rights reserved.
+-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>SPECviewperf 2020 Results</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <style>
+body {
+	font-family: 'Open Sans Condensed','Arial Narrow', serif;
+	background: #ddd;
+	font-weight: 400;
+	font-size: 15px;
+	color: #333;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+a {
+	color: #555;
+	text-decoration: none;
+}
+
+sup {
+  vertical-align: super;
+  font-size: small;
+}
+
+.results{
+	width: 100%;
+	position: relative;
+}
+.results > header{
+	margin: 10px;
+	padding: 20px 10px 10px 10px;
+	position: relative;
+	display: block;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    text-align: center;
+}
+.results > header h1{
+	font-size: 40px;
+	line-height: 40px;
+	margin: 0;
+	position: relative;
+	font-weight: 300;
+	color: #263F6E;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
+}
+.results > header h1 span{
+	font-weight: 700;
+}
+.results > header h2{
+	font-size: 14px;
+	font-weight: 300;
+	margin: 0;
+	padding: 15px 0 5px 0;
+	color: #131C2D;
+	font-family: Cambria, Georgia, serif;
+	font-style: italic;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
+}
+.results > footer{
+	margin: 10px;
+	padding: 20px 10px 10px 10px;
+	position: relative;
+	display: block;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    text-align: center;
+}
+.results > footer h2{
+	font-size: 14px;
+	font-weight: 300;
+	margin: 0;
+	padding: 5px 0 5px 0;
+	color: #131C2D;
+	font-family: Cambria, Georgia, serif;
+	font-style: italic;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
+}
+
+.viewset-menu-shadow {
+    clear: both;
+}
+
+.tabs {
+    position: relative;
+	margin: 20px auto;
+	width: 1000px;
+}
+.tabs input {
+	position: absolute;
+	z-index: 1000;
+	width: 160px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+    filter: alpha(opacity=0);
+	cursor: pointer;
+}
+.tabs input#tab-2{top: 40px;}
+.tabs input#tab-3{top: 80px;}
+.tabs input#tab-4{top: 120px;}
+.tabs input#tab-5{top: 160px;}
+.tabs input#tab-6{top: 200px;}
+.tabs input#tab-7{top: 240px;}
+.tabs input#tab-8{top: 280px;}
+.tabs input#tab-9{top: 320px;}
+.tabs input#tab-10{top: 360px;}
+.tabs input#tab-11{top: 400px;}
+.tabs input#tab-12{top: 440px;}
+.tabs input#tab-13{top: 480px;}
+.tabs input#tab-14{top: 520px;}
+.tabs input#tab-15{top: 560px;}
+.tabs input#tab-16{top: 600px;}
+.tabs input#tab-17{top: 640px;}
+.tabs input#tab-18{top: 680px;}
+.tabs input#tab-19{top: 720px;}
+.tabs input#tab-20{top: 760px;}
+.tabs input#tab-21{top: 800px;}
+.tabs input#tab-22{top: 840px;}
+.tabs input#tab-23{top: 880px;}
+.tabs input#tab-24{top: 920px;}
+.tabs input#tab-25{top: 960px;}
+.tabs input#tab-26{top: 1000px;}
+.tabs input#tab-27{top: 1040px;}
+.tabs input#tab-28{top: 1080px;}
+.tabs input#tab-29{top: 1020px;}
+.tabs input#tab-30{top: 1060px;}
+
+.tabs input:hover + label {background: #F6F8FC;}
+.tabs input:checked + label {background: #fff;}
+.tabs input.tab-selector-1:checked ~ .content .content-1,
+.tabs input.tab-selector-2:checked ~ .content .content-2,
+.tabs input.tab-selector-3:checked ~ .content .content-3,
+.tabs input.tab-selector-4:checked ~ .content .content-4,
+.tabs input.tab-selector-5:checked ~ .content .content-5,
+.tabs input.tab-selector-6:checked ~ .content .content-6,
+.tabs input.tab-selector-7:checked ~ .content .content-7,
+.tabs input.tab-selector-8:checked ~ .content .content-8,
+.tabs input.tab-selector-9:checked ~ .content .content-9,
+.tabs input.tab-selector-10:checked ~ .content .content-10,
+.tabs input.tab-selector-11:checked ~ .content .content-11,
+.tabs input.tab-selector-12:checked ~ .content .content-12,
+.tabs input.tab-selector-13:checked ~ .content .content-13,
+.tabs input.tab-selector-14:checked ~ .content .content-14,
+.tabs input.tab-selector-15:checked ~ .content .content-15,
+.tabs input.tab-selector-16:checked ~ .content .content-16,
+.tabs input.tab-selector-17:checked ~ .content .content-17,
+.tabs input.tab-selector-18:checked ~ .content .content-18,
+.tabs input.tab-selector-19:checked ~ .content .content-19,
+.tabs input.tab-selector-20:checked ~ .content .content-20,
+.tabs input.tab-selector-21:checked ~ .content .content-21,
+.tabs input.tab-selector-22:checked ~ .content .content-22,
+.tabs input.tab-selector-23:checked ~ .content .content-23,
+.tabs input.tab-selector-24:checked ~ .content .content-24,
+.tabs input.tab-selector-25:checked ~ .content .content-25,
+.tabs input.tab-selector-26:checked ~ .content .content-26,
+.tabs input.tab-selector-27:checked ~ .content .content-27,
+.tabs input.tab-selector-28:checked ~ .content .content-28,
+.tabs input.tab-selector-29:checked ~ .content .content-29,
+.tabs input.tab-selector-30:checked ~ .content .content-30{
+    -webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	-o-transform: translateY(0px);
+	-ms-transform: translateY(0px);
+	transform: translateY(0px);
+    z-index: 100;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transition: all ease-out 0.4s 0.4s;
+    -moz-transition: all ease-out 0.4s 0.4s;
+    -o-transition: all ease-out 0.4s 0.4s;
+    -ms-transition: all ease-out 0.4s 0.4s;
+    transition: all ease-out 0.4s 0.4s;
+}
+
+.tabs label {
+	background: #5ba4a4;
+	background: -moz-linear-gradient(top, #5ba4a4 0%, #4e8c8a 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#89A4D7), color-stop(100%,#406BBC));
+	background: -webkit-linear-gradient(top, #89A4D7 0%,#406BBC 100%);
+	background: -o-linear-gradient(top, #89A4D7 0%,#406BBC 100%);
+	background: -ms-linear-gradient(top, #89A4D7 0%,#406BBC 100%);
+	background: linear-gradient(top, #89A4D7 0%,#406BBC 100%);
+	font-size: 15px;
+	line-height: 40px;
+	height: 40px;
+	position: relative;
+	padding: 0 20px;
+	display: block;
+	width: 140px;
+	color: #263F6E;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: right;
+	float: left;
+	clear: both;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.3);
+    border-radius: 3px 0 0 3px;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+}
+.tabs label:after {
+    content: '';
+    background: #F6F8FC;
+    position: absolute;
+    right: -2px;
+    top: 0;
+    width: 2px;
+    height: 100%;
+}
+
+.content {
+    background: #fff;
+    width: auto;
+    position: relative;
+    margin: -80px 0 0 20px;
+    height: 840px;
+    z-index: 5;
+    overflow: auto;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+    border-radius: 3px;
+}
+
+.content div {
+    position: absolute;
+    top: 0;
+    padding: 10px 40px;
+    z-index: 1;
+    opacity: 0;
+    -webkit-transition: all linear 0.5s;
+    -moz-transition: all linear 0.5s;
+    -o-transition: all linear 0.5s;
+    -ms-transition: all linear 0.5s;
+    transition: all linear 0.5s;
+    -webkit-transform: translateY(-450px);
+    -moz-transform: translateY(-450px);
+    -o-transform: translateY(-450px);
+    -ms-transform: translateY(-450px);
+    transform: translateY(-450px);
+}
+
+.content div h2,
+.content div h3{
+    color: #263F6E;
+}
+
+.content div p {
+    font-size: 14px;
+    line-height: 22px;
+    font-style: italic;
+    text-align: left;
+    margin: 0;
+    color: #777;
+    padding-left: 15px;
+    font-family: Cambria, Georgia, serif;
+    border-left: 8px solid rgba(63,148,148, 0.1);
+}
+
+.warnings {
+    display: inline;
+    position: relative !important;
+    padding: 0 !important;
+}
+
+#composites {
+    margin: 10px 10px 0px 0px;
+    font-size: 14px;
+  	font-family: Arial, serif;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#composites td, #composites th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#composites tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#composites tr:hover {
+    background-color: #ddd;
+}
+
+#composites th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #263F6E;
+    color: white;
+}
+
+#warnings table {
+    font-size: 14px;
+    font-family: Arial, serif;
+    border-collapse: collapse;
+    margin-top: 8px;
+    width: 100%;
+}
+
+#warnings td, #warnings th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+#warnings tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#warnings tr:hover {
+    background-color: #ddd;
+}
+
+#warnings th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #263F6E;
+    color: white;
+}
+
+#system-configuration{
+    width:90%;
+}
+
+#configuration {
+    width:100%;
+    margin: 10px 10px 0px 0px;
+    font-size: 14px;
+	font-family: Arial, serif;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#configuration td, #configuration th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#configuration tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#configuration tr:hover {
+    background-color: #ddd;
+}
+
+#configuration th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #263F6E;
+    color: white;
+}
+    </style>
+    <script src='SPECviewperf_results.js'></script>
+    <script>
+        // These functions require the results object declared in the JSON file above
+
+        // Add viewset buttons
+        function addViewsetButtons(){
+            var n = 3; // Start with the 3rd element
+            // The scores are an unsorted object, so we need to sort them
+            var unordered_scores = results.Scores;
+            var scores = {};
+            // Sorting the objects
+            Object.keys(unordered_scores).sort().forEach(function(key) {
+                scores[key] = unordered_scores[key];
+            });
+
+            for(var viewset in scores) {
+                var input = document.createElement('input');
+                input.setAttribute('id', 'tab-' + n);
+                input.setAttribute('type', 'radio');
+                input.setAttribute('name', 'radio-set');
+                input.setAttribute('class', 'tab-selector-' + n);
+
+                var tabTwo = document.getElementById('tab-2');
+                tabTwo.parentNode.appendChild(input, tabTwo);
+
+                var label = document.createElement('label');
+                label.setAttribute('for', 'tab-' + n);
+                label.setAttribute('class', 'tab-label-' + n);
+                label.innerHTML = scores[viewset].Name;
+
+                input.parentNode.appendChild(label, input);
+                n = n +1;
+            } // END for scores
+        } // END addViewsetButtons
+
+        // Helper function for Bytes to GB
+        function formatBytestoGB(bytes, decimals) {
+           if(bytes == 0) return '0 GB';
+           var k = 1024;
+           var i = Math.floor(Math.log(bytes) / Math.log(k));
+           if(decimals > 0)
+             return parseFloat((bytes / Math.pow(k,i))).toFixed(decimals)+' GB'
+           else
+             return Math.floor((bytes / Math.pow(k,i)))+' GB'
+        }
+
+        // Add configuration information
+        function addConfiguration(){
+            // Construct a table to insert into the configuration tab
+            var configTable = document.getElementById('config-table')
+            // Each of these is referenced below by index but could be referenced by name
+            var headerHLArr = ['Workstation', 'Graphics', 'Processor', 'Memory', 'Disk Drives', 'Display'];
+
+            // Create the table rows for each above the above categories
+            for (idx=0; idx < headerHLArr.length; idx++){
+              headerHLArr[idx] = '<tr valign="top">\n<th colspan="3">' + headerHLArr[idx] + '</th>\n</tr>\n';
+            }
+
+            // TODO: Consider try/catch blocks here as exceptions stop the function / blank the table
+
+            // Pull in the configuration information from the results object
+            for(var c in results.Configuration) {
+
+              // add all ComputerSystem and BIOS info under 'Workstation'
+              if (c.includes('ComputerSystem') || c.includes('BIOS')){
+                for (var i in results.Configuration[c]){
+                  for (var j in results.Configuration[c][i]){
+                    if (j.includes('Model') && c.includes('ComputerSystem')){
+                      bStartStr = '<b>'; bEndStr = '</b>';
+                    }
+                    else {
+                      bStartStr = ''; bEndStr = '';
+                    }
+                    headerHLArr[0] += '<tr valign="top" align="left"><td>';
+                    if(j.includes('Name') && c.includes('BIOS'))
+                      headerHLArr[0] += 'BIOS ' + j;
+                    else if (j.includes('SMBIOS'))
+                      headerHLArr[0] += 'SMBIOS Version';
+                    else
+                      headerHLArr[0] += j.replace(/([a-z])([A-Z])/g, '$1 $2');
+                    headerHLArr[0] += '</td><td>'+bStartStr;
+                    headerHLArr[0] += results.Configuration[c][i][j].toString();
+                    headerHLArr[0] += bEndStr+'</td></tr>';
+                  }
+                }
+              }
+
+              // add select, reordered OperatingSystem info under 'Workstation'
+              if (c.includes('OperatingSystem')){
+                for (var i in results.Configuration[c]){
+                  var tmpStr = '';
+
+                  for (var j in results.Configuration[c][i]){
+                    if(j.includes('BuildNumber')){
+                      tmpStr += '<tr valign="top" align="left"><td>';
+                      tmpStr += j.replace(/([a-z])([A-Z])/g, '$1 $2');
+                      tmpStr += '</td><td>';
+                      tmpStr += results.Configuration[c][i][j].toString();
+                      tmpStr += '</td></tr>';
+                    } else if(j.includes('Caption')){
+                      headerHLArr[0] += '<tr valign="top" align="left"><td>';
+                      headerHLArr[0] += 'OS Name';
+                      headerHLArr[0] += '</td><td><b>';
+                      headerHLArr[0] += results.Configuration[c][i][j].toString();
+                      headerHLArr[0] += '</b></td></tr>';
+                    }
+                  }
+                  headerHLArr[0] += tmpStr;
+                }
+              }
+
+              // add select, reformatted VideoController info under 'Graphics'
+              if (c.includes('VideoController')){
+                for (var i in results.Configuration[c]){
+                  for (var j in results.Configuration[c][i]){
+                    if(j.includes('Name')){
+                      headerHLArr[1] += '<tr valign="top" align="left"><td>';
+                      headerHLArr[1] += j;
+                      headerHLArr[1] += '</td><td><b>';
+                      headerHLArr[1] += results.Configuration[c][i][j].toString();
+                      headerHLArr[1] += '</b></td></tr>';
+                    } else if (j.includes('DriverVersion')){
+                      headerHLArr[1] += '<tr valign="top" align="left"><td>';
+                      headerHLArr[1] += j.replace(/([a-z])([A-Z])/g, '$1 $2');
+                      headerHLArr[1] += '</td><td>';
+                      headerHLArr[1] += results.Configuration[c][i][j].toString();
+                      headerHLArr[1] += '</td></tr>';
+                    } else if (j.includes ('Horizontal')){
+                        // Test whether results.Configuration[c][i][j].toString()
+                        // contains 'Error' if it does, then log the error and skip the entry
+                      if(results.Configuration[c][i][j].toString().includes('Error')) {
+                          console.log('Noted an error in WMI Query, likely due to a missing value.')
+                      } else {
+                        headerHLArr[1] += '<tr valign="top" align="left"><td>';
+                        headerHLArr[1] += 'Resolution';
+                        headerHLArr[1] += '</td><td>';
+                        headerHLArr[1] += results.Configuration[c][i][j].toString();
+                      }
+                    } else if (j.includes ('Vertical')){
+                        // Test for Error and log or add the string
+                      if(results.Configuration[c][i][j].toString().includes('Error')) {
+                          console.log('Noted an error in WMI Query, likely due to a missing value.')
+                      } else {
+                        headerHLArr[1] += ' x ' +  results.Configuration[c][i][j].toString();
+                        headerHLArr[1] += '</td></tr>';
+                      }
+                    }
+                  }
+                }
+
+                headerHLArr[1] += '<tr valign="top" align="left"><td>';
+                headerHLArr[1] += 'DPI';
+                headerHLArr[1] += '</td><td>'+ results.Configuration['dpi_amount'] +
+                    ' (Scale Factor: ' + results.Configuration['dpi_scale_factor'] +
+                    '%) ' + '</td></tr>';
+              }
+              // add all Processor info under 'Processor'
+              if (c.includes('Processor')){
+                for (var i in results.Configuration[c]){
+                  for (var j in results.Configuration[c][i]){
+                    if (j.includes('Name')){
+                      bStartStr = '<b>';
+                      bEndStr = '</b>';
+                    }
+                    else
+                      bStartStr = bEndStr = '';
+
+                    headerHLArr[2] += '<tr valign="top" align="left"><td>';
+                    if (j.includes('MaxClockSpeed')){
+                      headerHLArr[2] += 'Nominal Clock Speed'
+                      units = ' MHz';
+                    }
+                    else {
+                      headerHLArr[2] += j.replace(/([a-z])([A-Z])/g, '$1 $2');
+                      units = '';
+                    }
+                    headerHLArr[2] += '</td><td>'+bStartStr;
+                    if (j.includes('AddressWidth'))
+                      units = '-bit';
+                    headerHLArr[2] += results.Configuration[c][i][j].toString() + units;
+                    headerHLArr[2] += bEndStr+'</td></tr>';
+                  }
+                }
+              }
+              // add select, reformatted, reordered PhysicalMemory info under 'Memory'
+              if (c.includes('PhysicalMemory')){
+                for (var i in results.Configuration[c]){
+                  for (var j in results.Configuration[c][i]){
+                    if(j.includes('Name')){
+                        headerHLArr[3] += '<tr valign="top" align="left"><td>';
+                        headerHLArr[3] += 'DIMM ' + j;
+                        headerHLArr[3] += '</td><td><b>';
+                        headerHLArr[3] += results.Configuration[c][i][j].toString();
+                        headerHLArr[3] += '</b></td></tr>';
+                    } else if (j.includes('Capacity')){
+                        headerHLArr[3] += '<tr valign="top" align="left"><td>';
+                        headerHLArr[3] += 'Memory Capacity';
+                        headerHLArr[3] += '</td><td>';
+                        headerHLArr[3] += formatBytestoGB(results.Configuration[c][i][j],0);
+                        headerHLArr[3] += '</td></tr>';
+                    }
+                    else if (j.includes('Speed')){
+                        headerHLArr[3] += '<tr valign="top" align="left"><td>';
+                        headerHLArr[3] += 'Memory Speed';
+                        headerHLArr[3] += '</td><td>';
+                        headerHLArr[3] += results.Configuration[c][i][j].toString() + ' MHz';
+                        headerHLArr[3] += '</td></tr>';
+                    }
+                  }
+                }
+              }
+
+              // Add select, reformatted, reordered DiskDrive info under 'Disk Drives'
+              if (c.includes('DiskDrive')){
+                for (var i in results.Configuration[c]){
+                  for (var j in results.Configuration[c][i]){
+                    if (j.includes('Model')){
+                      headerHLArr[4] += '<tr valign="top" align="left"><td>';
+                      headerHLArr[4] += 'Drive ' + j;
+                      headerHLArr[4] += '</td><td><b>';
+                      headerHLArr[4] += results.Configuration[c][i][j].toString();
+                      headerHLArr[4] += '</b></td></tr>';
+                    } else if (j.includes('Size')){
+                      tmpStr = '<tr valign="top" align="left"><td>';
+                      tmpStr += 'Drive Capacity';
+                      tmpStr += '</td><td>';
+                      tmpStr += formatBytestoGB(results.Configuration[c][i][j],2);
+                      tmpStr += '</td></tr>';
+                    }
+                  }
+                  headerHLArr[4] += tmpStr;
+                }
+              }
+              // Add select, reformatted, reordered DesktopMonitor info under 'Display'
+              if (c.includes('DesktopMonitor')){
+                 for (var i in results.Configuration[c]){
+                    tmpStr = '';
+                   for (var j in results.Configuration[c][i]){
+                    if (j.includes('Name')){
+                      headerHLArr[5] += '<tr valign="top" align="left"><td>';
+                      headerHLArr[5] += results.Configuration[c][i][j].toString();
+                      headerHLArr[5] += '</td><td>';
+                    } else if (j.includes('Width')){
+                        if(!results.Configuration[c][i][j].toString().includes('Error')) {
+                            headerHLArr[5] += results.Configuration[c][i][j].toString();
+                        }
+                    } else if (j.includes('Height')){
+                        if(!results.Configuration[c][i][j].toString().includes('Error')) {
+                            tmpStr = ' x '+results.Configuration[c][i][j].toString();
+                        }
+                      tmpStr += '</td></tr>';
+                    }
+                  }
+                  headerHLArr[5] += tmpStr;
+                 }
+              }
+            }
+
+            var newTable = '<table id="configuration">';
+            // Add each of the configuration sections to the table
+            for (idx=0; idx < headerHLArr.length; idx++){
+                newTable += headerHLArr[idx];
+            }// End for each of the configuration sections
+            newTable += '</table>';
+            // Create a new div element where the new table will be swapped into
+            var tmpObj = document.createElement('div');
+            tmpObj.innerHTML = '<!--REPLACE-->';
+
+            ObjParent=configTable.parentNode;
+            ObjParent.replaceChild(tmpObj,configTable);
+            ObjParent.innerHTML=ObjParent.innerHTML.replace('<div><!--REPLACE--></div>', newTable);
+
+        } // End addConfiguration
+
+        // Add benchmark information
+        function addBenchmarkInfo(){
+            // Construct a table to insert into the configuration tab
+            var configTable = document.getElementById('benchmark-table');
+            // Referenced below by index but could be referenced by name
+            var headerHLArr = ['Benchmark', 'Submission'];
+
+            // Create the table rows for each above the above categories
+            for (idx=0; idx < headerHLArr.length; idx++){
+              headerHLArr[idx] = '<tr valign="top">\n<th colspan="3">' + headerHLArr[idx] + '</th>\n</tr>\n';
+            }
+
+            if (results.Benchmark_Name != undefined){
+                  headerHLArr[0] += '<tr valign="top" align="left"><td>Name</td><td>';
+                  headerHLArr[0] += results.Benchmark_Name;
+                  headerHLArr[0] += '</td>';
+            }
+            if (results.Benchmark_Version != undefined){
+                  headerHLArr[0] += '<tr valign="top" align="left"><td>Version</td><td>';
+                  headerHLArr[0] += results.Benchmark_Version;
+                  headerHLArr[0] += '</td>';
+            }
+            if (results.Test_Date != undefined){
+                  headerHLArr[1] += '<tr valign="top" align="left"><td>Test Date</td><td>';
+                  headerHLArr[1] += results.Test_Date;
+                  headerHLArr[1] += '</td>';
+            }
+            if (results.Submission_Candidate != undefined){
+                  headerHLArr[1] += '<tr valign="top" align="left"><td>Submission Candidate</td><td>';
+                  headerHLArr[1] += results.Submission_Candidate;
+                  headerHLArr[1] += '</td>';
+            }
+            if (results.Submitting_Company != 'Enter your company name'){
+                  headerHLArr[1] += '<tr valign="top" align="left"><td>Submitting Company</td><td>';
+                  headerHLArr[1] += results.Submitting_Company;
+                  headerHLArr[1] += '</td>';
+            }
+            if (results.Comments != 'Enter your comments here'){
+                  headerHLArr[1] += '<tr valign="top" align="left"><td>Comments</td><td>';
+                  headerHLArr[1] += results.Comments;
+                  headerHLArr[1] += '</td>';
+            }
+
+            var newTable = '<table id="configuration">';
+            // Add each of the configuration sections to the table
+            for (idx=0; idx < headerHLArr.length; idx++){
+                newTable += headerHLArr[idx];
+            }// End for each of the configuration sections
+            newTable += '</table>';
+            // Create a new div element where the new table will be swapped into
+            var tmpObj = document.createElement('div');
+            tmpObj.innerHTML = '<!--REPLACE-->';
+
+            ObjParent=configTable.parentNode;
+            ObjParent.replaceChild(tmpObj,configTable);
+            ObjParent.innerHTML=ObjParent.innerHTML.replace('<div><!--REPLACE--></div>', newTable);
+
+        } // End addBenchmarkInfo
+
+        // Add viewset composites
+        function addComposites(){
+            // Construct a table to insert into the scores tab
+            var newTable = '<table id="composites"><tr>' +
+                '<th>Viewset</th><th>Composite Score</th><th>Window</th></tr>';
+            // The scores are an unsorted object, so we need to sort them
+            var unordered_scores = results.Scores;
+            var scores = {};
+            // Sorting the objects
+            Object.keys(unordered_scores).sort().forEach(function(key) {
+                scores[key] = unordered_scores[key];
+            });
+
+            for(var viewset in scores) {
+                newTable += '<tr><td>' + scores[viewset].Name + '</td>' +
+                    '<td>' + scores[viewset].Composite + '</td>' +
+                    '<td>' + scores[viewset].WindowWidth + ' x ' +
+                             scores[viewset].WindowHeight + '</td></tr>'
+            } // END for scores
+            newTable += '</table>';
+
+            // Create a new div element where the new table will be swapped into
+            var tmpObj = document.createElement('div');
+            tmpObj.innerHTML = '<!--REPLACE-->';
+
+            var compositesTable = document.getElementById('composites');
+            ObjParent=compositesTable.parentNode;
+            ObjParent.replaceChild(tmpObj,compositesTable);
+            ObjParent.innerHTML=ObjParent.innerHTML.replace('<div><!--REPLACE--></div>', newTable);
+
+        } // END addComposites
+
+        // Add viewset warnings
+        function addWarnings(){
+            // Construct list of warnings
+            var warnings = '';
+            Object.keys(results.Scores).forEach(function(viewset) {
+              for(var i = 0; i < results.Scores[viewset].Tests.length; i++) {
+                var viewsetWarnings = results.Scores[viewset].Tests[i].Warnings || [];
+                viewsetWarnings.forEach(function(warning) {
+                    warnings += '<tr><td>' + viewset + '</td>'
+                    + '<td>' + results.Scores[viewset].Tests[i].Name + '</td>'
+                    + '<td>' + warning + '</td></tr>';
+                });
+              }
+            });
+
+            // Skip if no warnings are included in JSON
+            if(warnings.length > 0) {
+                // Construct a div to insert into the scores tab
+                var newDiv = '<div class="warnings" id="warnings"><h3>Warnings by Viewset</h3>'
+                    + '<p>The following are warnings which were encountered during the execution of each viewset test case. Please review these warnings carefully, as they may prevent official submissions from being accepted.</p>'
+                    + '<table><tr><th>Viewset</th><th>Test Name</th><th>Warning</th></tr>'
+                    + warnings + '</table></div>';
+
+                // Create a new div element where the new table will be swapped into
+                var tmpObj = document.createElement('div');
+                tmpObj.innerHTML = '<!--REPLACE-->';
+
+                var warningsDiv = document.getElementById('warnings');
+                ObjParent=warningsDiv.parentNode;
+                ObjParent.replaceChild(tmpObj,warningsDiv);
+                ObjParent.innerHTML=ObjParent.innerHTML.replace('<div><!--REPLACE--></div>', newDiv);
+            }
+
+        } // END addWarnings
+
+        function findGrabName(vsnm, name, index){
+            try {
+                subtests = results.ViewsetConfig[vsnm].SPECGWPG.Viewset[0].Test;
+                for (var i in subtests) {
+                    if (subtests[i].$.Index == index) {
+                        return subtests[i].Grab[0].$.Name;
+                    }
+                }
+            }
+            catch (err) {}
+            return name + '.png';
+        }
+
+        function addViewsetContent(){
+            // Fair warning - hard-coded start index here
+            var n = 3;
+            // The scores are an unsorted object, so we need to sort them
+            var unordered_scores = results.Scores;
+            var scores = {};
+            // Sorting the objects
+            Object.keys(unordered_scores).sort().forEach(function(key) {
+                scores[key] = unordered_scores[key];
+            });
+
+            // For each viewset in scores, build a div section for the content
+            for(var viewset in scores) {
+                var viewset_div = document.createElement('div');
+                viewset_div.setAttribute('class', 'content-' + n);
+                var name = scores[viewset].Name;
+console.log('name = '+name);
+                var cfg = results.ViewsetConfig[name].SPECGWPG.Viewset[0];
+                var newContent = '<h2>' + scores[viewset].Name + '</h2>' +
+                    '<p style="color: #000; font-style:normal;">'+cfg.Description+'</p>'+
+                    '<h3>' + scores[viewset].Name + " composite score: " +
+                        scores[viewset].Composite + '</h3>' +
+                    '<p>The composite score is a weighted geometric mean of the subtest scores. See the table below for subtest weights and FPS scores for this run.</p>' +
+                    '<h3>Subtest results</h3>' +
+                    '<p> Click on each thumbnail image below to display the subtest\'s screen grab.</p>' +
+                    '<table id="composites"><tr>' +
+                    '<th>Index</th><th>Description</th><th>Weight</th><th>FPS</th>';
+                var vst = scores[viewset].Tests;
+                for(var i in vst) {
+                    var grab = findGrabName(scores[viewset].Name, vst[i].Name, vst[i].Index);
+                    var tsti = cfg.Test[i].$;
+                    var grbName = viewset + '/grabs/' + grab;
+                    newContent += '<tr valign="top">' +
+                        '<td>' + vst[i].Index + '</td>' +
+                        '<td>' +
+                            '<a href=' + grbName + ' alt="' + grab + '" target="_blank">' +
+                                '<img style="padding-right:5px; float:left;"' +
+                                      'width="128" height="72"' +
+                                      'src="' + grbName + '"/>' +
+                            '</a>' +
+                            '<p style="color:#000; font-style:normal; font-family:\'Arial\',\'Sans-serif\'">' + tsti.Description + '</h4>' +
+                        '</td>' +
+                        '<td>' + vst[i].Weight + '</td>' +
+                        '<td>' + vst[i].FPS + '</td></tr>';
+                }
+                newContent += '</table>' +
+                              '<br><br><p>The results table above includes the details about each test within a viewset. Viewsets are often comprised of many tests which produce a frame rate. Frame rate is computed as the average Frames Per Second (FPS), or the total number of frames rendered divided by the time in seconds to render those frames. These FPS values are then used to compute the composite score using the weights for each test.</p>' +
+				'<br><br><a href=' + viewset + '/grabs/ target="_blank"><b>Screen Grabs</b> Folder</a>' +
+                '<br><a href=' + viewset + '/log.txt target="_blank"><b>Text</b> Log File</a>' +
+                '<br><a href=' + viewset + '/results.xml target="_blank"><b>XML</b> Result File</a>';
+
+                viewset_div.innerHTML = newContent;
+                var contentTwo = document.getElementById('system-configuration');
+                contentTwo.parentNode.appendChild(viewset_div, contentTwo);
+
+                n = n +1;
+            } // END for scores
+
+        } // END addViewsetContent
+
+    </script>
+    <body>
+        <div class="results">
+			<header>
+                <h1>SPECviewperf<sup>&reg;</sup> 2020 <span>Results</span></h1>
+				<h2><a href='http://www.spec.org/gwpg'>http://www.spec.org/gwpg</a></h2>
+			</header>
+			<section id="tabs-section" class="tabs">
+	            <input id="tab-1" type="radio" name="radio-set" class="tab-selector-1" checked="checked" />
+		        <label for="tab-1" class="tab-label-1">Scores</label>
+
+	            <input id="tab-2" type="radio" name="radio-set" class="tab-selector-2" />
+		        <label for="tab-2" class="tab-label-2">Configuration</label>
+                <!-- INSERT VIEWSET BUTTONS HERE -->
+			    <div id="viewset-menu-shadow" class="viewset-menu-shadow"></div>
+                <script>
+                    addViewsetButtons()
+                </script>
+
+		        <div class="content" id="content-section">
+			        <div class="content-1" id="composite-scores">
+                        <!--<img src="banner.png"/>-->
+						<h2>Composite Scores</h2>
+                        <p>SPECviewperf measures the frame rate, or frames per second (FPS), at which your graphics card can render scenes across a wide variety of applications and usage models. Each viewset represents an application or a usage model, and each composite score below is based on a weighted geometric mean of many different scenes and rendering modes.</p>
+						<h3>Composites by Viewset</h3>
+						<p>To explore a viewset in more detail, including the measured frame rate for each test of which the composite score is comprised, click on the viewset name in the menu to the left. </p>
+                        <table id="composites">
+                            <!-- INSERT COMPOSITES TABLE HERE -->
+                        </table>
+                        <div id="warnings">
+                            <!-- INSERT WARNINGS TABLE HERE -->
+                        </div>
+				    </div>
+                    <script>
+                        addComposites();
+                        addWarnings();
+                    </script>
+			        <div class="content-2" id="system-configuration">
+						<h2>Benchmark Information</h2>
+                        <!-- INSERT BENCHMARK DETAILS HERE -->
+                        <table id='benchmark-table'>
+                        </table>
+
+                        <h2>System Configuration</h2>
+                        <!-- INSERT CONFIGURATION DETAILS HERE -->
+                        <table id='config-table'>
+                        </table>
+				    </div>
+                    <script>
+                        addConfiguration();
+                        addBenchmarkInfo();
+                        addViewsetContent();
+                    </script>
+                    <!-- INSERT VIEWSET CONTENT HERE -->
+		        </div>
+			</section>
+            <footer>
+                <h2>SPECviewperf is Copyright &copy; SPEC 1996-2020. All rights reserved.</h2>
+                <h2>SPECviewperf incorporates the use of various libraries and redistributable packages which may reserve some or all rights and may include additional stipulations for use and/or redistribution. These include, but are not limited to, <a href="https://github.com/nwjs/nw.js/">NW.js</a>, <a href="https://www.zlib.net/zlib_license.html">Zlib</a>, <a href="http://iba.aapg.org/software/opendtect">OpendTect</a>, <a href="http://www.libpng.org/pub/png/src/libpng-LICENSE.txt">libpng</a>, <a href="https://github.com/uclouvain/openjpeg/blob/master/LICENSE">openjpeg</a>, <a href="https://github.com/SCIInstitute/Tuvok">Tuvok</a>, <a href="https://github.com/nigels-com/glew#copyright-and-licensing">GLEW</a>, and <a href="http://www.boost.org/users/license.html">Boost</a>.</h2>
+            </footer>
+        </div>
+    </body>
+</html>

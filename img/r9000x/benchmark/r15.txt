@@ -1,0 +1,750 @@
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1784.84 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1762.97 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1777.70 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1782.61 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1797.59 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1783.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1806.52 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1781.50 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1776.51 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1788.99 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1791.47 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1786.11 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1787.63 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1796.38 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1804.00 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1801.40 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1797.67 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1798.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1765.93 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1775.17 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1791.31 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1796.38 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1805.22 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1791.31 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1798.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1795.09 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1809.05 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1798.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1806.52 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1797.67 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1758.24 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1795.09 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1792.60 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1798.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1796.38 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1805.22 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1801.40 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1804.89 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1795.09 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1792.76 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1796.38 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1781.42 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1806.52 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1798.88 pts
+
+
+Starting CINEMA 4D 15.037 ...
+
+Startup Directory: C:\Users\PegionFish\Desktop\CineBenchR15
+Write Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F
+Preferences Directory: C:\Users\PegionFish\AppData\Roaming\MAXON\CineBenchR15_0C24153F\cinebenchprefs
+CINEBENCH started
+
+running Multiple CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Multiple CPU) : 1793.88 pts
+
+

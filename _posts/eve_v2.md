@@ -27,7 +27,7 @@ published: false  #write true to publish this article.
 ## 平台
 由于AMD至今为止都没有可靠的平板方案，V2仍然采用了11代酷睿平台Tiger Lake的处理器。不过，这次的处理器是15W的低压U，而非之前7w TDP的Y方案。相对应的，散热器也从原来的被动散热更新到了现在的主动散热。
 ## 内存
-所有V2都采用了LPDDR4x 4266规格的内存。当时我们对使用3933还是4266有过一定讨论，最后还是决定全部使用LPDDR4x 4266。16G的内存板载无法更换，但是对于特殊需求的用户（比如我）还有32G的SKU可选。据我所知，目前市面上很少有32G LPDDR4x的方案，对于内存有需求的用户来说，32G的SKU就很有竞争力了。
+所有V2都采用了LPDDR4x 4266规格的内存。当时我们对使用3933还是4266有过一定讨论，最后还是决定全部使用LPDDR4x 4266。16G的内存板载无法更换，但是对于特殊需求的用户（比如我）还有32G的SKU可选。据我所知，目前市面上很少有32G LPDDR4x的方案，对于内存有需求的用户来说，32G的SKU就很有竞争力了。0
 ## SSD
 ## 无线网络
 ## UEFI Firmware
@@ -38,6 +38,7 @@ published: false  #write true to publish this article.
 ## 游戏
 既然Xe核显的性能这么强劲，不如来玩玩一些游戏测试一下。
 ### 反恐精英：全球攻势
+
 # 性能
 ## PCMark 10性能测试
 ## PCMark 8续航测试
@@ -49,6 +50,8 @@ published: false  #write true to publish this article.
 ## SPECViewPERF 2020生产力测试
 ## Vray渲染器测试
 ## Handbrake视频转码测试
+## Adobe全家桶生产力测试
+## Solidworks生产力测试
 # Linux兼容性测试与性能测试
 作为一个Linux的重度用户，我的每篇评测都会涉及到Linux，这篇也不例外。由于这是我第一次对一台尚未发售的机型进行评测，有一定的购买引导作用，所以我在这里会对几个常用的Linux发行版进行兼容性测试并使用Ubuntu Linux 20.04LTS进行性能测试。这些发行版分别是：
 * Arch Linux
@@ -66,5 +69,5 @@ published: false  #write true to publish this article.
 |Ubuntu Linux 20.04 LTS|||||||||
 |openSUSE Leap 15.2|||||||||
 ## 性能
-性能测试在Ubuntu 20.04 LTS下进行，使用UnixBench
+性能测试在Ubuntu 20.04 LTS下进行，使用UnixBench进行理论性能测试。
 # 总结

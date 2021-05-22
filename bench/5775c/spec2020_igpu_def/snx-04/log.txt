@@ -1,0 +1,50 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       snx-04              
+viewset library      viewset config       snx                 
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       3800                
+window height        viewset config       2120                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\snx-04
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:30:26 2021
+Number of frames run: 720, Test period: 93.56 (sec)    7.70	frames/sec	--	NX8_AdvancedStudioAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:31:58 2021
+Number of frames run: 720, Test period: 88.31 (sec)    8.15	frames/sec	--	NX8_ShadedAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:34:33 2021
+Number of frames run: 720, Test period: 149.17 (sec)    4.83	frames/sec	--	NX8_ShadedWithEdgeAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:37:35 2021
+Number of frames run: 720, Test period: 177.00 (sec)    4.07	frames/sec	--	NX8_StudioAA
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:39:28 2021
+Number of frames run: 360, Test period: 108.63 (sec)    3.31	frames/sec	--	NX8_powerTrain_Wireframe
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:40:42 2021
+Number of frames run: 720, Test period: 68.61 (sec)   10.49	frames/sec	--	NX8_suvAdvancedStudio
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:41:58 2021
+Number of frames run: 720, Test period: 72.52 (sec)    9.93	frames/sec	--	NX8_suvShaded
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:44:00 2021
+Number of frames run: 720, Test period: 118.28 (sec)    6.09	frames/sec	--	NX8_suvShadedWithEdge
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:46:17 2021
+Number of frames run: 720, Test period: 133.20 (sec)    5.41	frames/sec	--	NX8_suvStudio2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:47:36 2021
+Number of frames run: 360, Test period: 74.48 (sec)    4.83	frames/sec	--	NX8_suvWireframe

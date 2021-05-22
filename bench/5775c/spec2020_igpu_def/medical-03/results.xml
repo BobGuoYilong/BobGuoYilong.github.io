@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="medical-03" Threads="1" Processes="1">
+    <Test Index="1" Weight="10.00" Frames="271" Seconds="32.08" FPS="8.45" TimeStamp="05/22/21 16:55:06" />
+    <Test Index="2" Weight="10.00" Frames="271" Seconds="26.01" FPS="10.42" TimeStamp="05/22/21 16:55:34" />
+    <Test Index="3" Weight="10.00" Frames="112" Seconds="134.47" FPS="0.83" TimeStamp="05/22/21 16:57:52" />
+    <Test Index="4" Weight="10.00" Frames="58" Seconds="96.67" FPS="0.60" TimeStamp="05/22/21 16:59:32" />
+    <Test Index="5" Weight="10.00" Frames="112" Seconds="376.91" FPS="0.30" TimeStamp="05/22/21 17:05:53" />
+    <Test Index="6" Weight="10.00" Frames="112" Seconds="113.95" FPS="0.98" TimeStamp="05/22/21 17:07:49" />
+    <Test Index="7" Weight="10.00" Frames="46" Seconds="137.08" FPS="0.34" TimeStamp="05/22/21 17:10:10" />
+    <Test Index="8" Weight="10.00" Frames="70" Seconds="81.34" FPS="0.86" TimeStamp="05/22/21 17:11:34" />
+    <Test Index="9" Weight="10.00" Frames="46" Seconds="786.38" FPS="0.06" TimeStamp="05/22/21 17:25:06" />
+    <Test Index="10" Weight="10.00" Frames="46" Seconds="204.03" FPS="0.23" TimeStamp="05/22/21 17:28:44" />
+    <Composite Score="0.74" />
+</Results>

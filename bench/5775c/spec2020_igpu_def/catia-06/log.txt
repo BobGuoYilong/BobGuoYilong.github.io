@@ -1,0 +1,40 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       catia-06            
+viewset library      viewset config       catia               
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       3800                
+window height        viewset config       2120                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\catia-06
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:44:05 2021
+Number of frames run: 103, Test period: 17.44 (sec)    5.91	frames/sec	--	catiaV5test1
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:44:53 2021
+Number of frames run: 226, Test period: 25.84 (sec)    8.74	frames/sec	--	catiaV5test2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:45:25 2021
+Number of frames run: 1098, Test period: 20.91 (sec)   52.52	frames/sec	--	catiaV5test3
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:46:05 2021
+Number of frames run: 520, Test period: 19.92 (sec)   26.10	frames/sec	--	catiaV5test4
+Sat May 22 16:46:25 2021
+Number of frames run: 0, Test period: 0.00 (sec)-nan(ind)	frames/sec	--	CATIA_3DX_repEngine
+Sat May 22 16:46:30 2021
+Number of frames run: 0, Test period: 0.00 (sec)-nan(ind)	frames/sec	--	CATIA_3DX_loftJet
+Sat May 22 16:46:33 2021
+Number of frames run: 0, Test period: 0.00 (sec)-nan(ind)	frames/sec	--	CATIA_3DX_car
+Sat May 22 16:46:37 2021
+Number of frames run: 0, Test period: 0.00 (sec)-nan(ind)	frames/sec	--	CATIA_3DX_Multi_car

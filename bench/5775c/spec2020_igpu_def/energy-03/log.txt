@@ -1,0 +1,44 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       energy-03           
+viewset library      viewset config       energy              
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       3800                
+window height        viewset config       2120                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\energy-03
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:50:34 2021
+Number of frames run: 180, Test period: 155.09 (sec)    1.16	frames/sec	--	Test1
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:50:54 2021
+Number of frames run: 70740, Test period: 15.02 (sec) 4711.29	frames/sec	--	Test2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:51:33 2021
+Number of frames run: 122580, Test period: 15.00 (sec) 8172.00	frames/sec	--	Test3
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:51:50 2021
+Number of frames run: 117900, Test period: 15.02 (sec) 7851.63	frames/sec	--	Test4
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:52:10 2021
+Number of frames run: 115560, Test period: 15.02 (sec) 7696.30	frames/sec	--	Test5
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+SPECviewperf MESSAGE: Viewset Message: 3800 / 0 => m_TessFactor of 1
+Sat May 22 16:52:50 2021
+Number of frames run: 122490, Test period: 15.00 (sec) 8166.00	frames/sec	--	Test6

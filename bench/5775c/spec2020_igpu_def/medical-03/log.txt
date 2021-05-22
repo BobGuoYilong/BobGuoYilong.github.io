@@ -1,0 +1,50 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       medical-03          
+viewset library      viewset config       medical             
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       3800                
+window height        viewset config       2120                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\medical-03
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:55:06 2021
+Number of frames run: 271, Test period: 32.08 (sec)    8.45	frames/sec	--	Test1
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:55:34 2021
+Number of frames run: 271, Test period: 26.01 (sec)   10.42	frames/sec	--	Test2
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:57:52 2021
+Number of frames run: 112, Test period: 134.47 (sec)    0.83	frames/sec	--	Test3
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 16:59:32 2021
+Number of frames run: 58, Test period: 96.67 (sec)    0.60	frames/sec	--	Test4
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:05:53 2021
+Number of frames run: 112, Test period: 376.91 (sec)    0.30	frames/sec	--	Test5
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:07:49 2021
+Number of frames run: 112, Test period: 113.95 (sec)    0.98	frames/sec	--	Test6
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:10:10 2021
+Number of frames run: 46, Test period: 137.08 (sec)    0.34	frames/sec	--	Test7
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:11:34 2021
+Number of frames run: 70, Test period: 81.34 (sec)    0.86	frames/sec	--	Test8
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:25:06 2021
+Number of frames run: 46, Test period: 786.38 (sec)    0.06	frames/sec	--	Test9
+SPECviewperf MESSAGE: Viewset Message: Graphics Renderer: Intel Intel(R) Iris(TM) Pro Graphics 6200 4.4.0 - Build 20.19.15.5171.
+Sat May 22 17:28:44 2021
+Number of frames run: 46, Test period: 204.03 (sec)    0.23	frames/sec	--	Test10

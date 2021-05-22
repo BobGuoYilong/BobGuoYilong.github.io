@@ -1,0 +1,42 @@
+SPECviewperf MESSAGE: Welcome to SPECviewperf(R) 2020 v1.01
+---------------------------------------------------------------
+SPECviewperf 2020 v1.01 settings:
+setting              source               value               
+---------------------------------------------------------------
+viewperf root        default              (null)              
+viewset name         viewset config       3dsmax-07           
+viewset library      viewset config       3dsmax.dll          
+window x             viewset config       10                  
+window y             viewset config       20                  
+window width         viewset config       3800                
+window height        viewset config       2120                
+multisample          viewset config       0                   
+screen               viewset config       0                   
+threads              viewset config       1                   
+processes            viewset config       1                   
+results dir          viewset config       D:\SPEC\SPECgpc\SPECviewperf2020\results\3dsmax-07
+---------------------------------------------------------------
+END SPECviewperf settings
+---------------------------------------------------------------
+Sat May 22 16:27:29 2021
+Number of frames run: 55, Test period: 18.45 (sec)    2.98	frames/sec	--	3dsmax_Arch_Shaded
+Sat May 22 16:28:19 2021
+Number of frames run: 54, Test period: 22.70 (sec)    2.38	frames/sec	--	3dsmax_Arch_Graphite
+Sat May 22 16:28:53 2021
+Number of frames run: 315, Test period: 21.31 (sec)   14.78	frames/sec	--	3dsmax_Space_Wireframe
+Sat May 22 16:29:32 2021
+Number of frames run: 210, Test period: 21.80 (sec)    9.63	frames/sec	--	3dsmax_Space_Clay
+Sat May 22 16:35:12 2021
+Number of frames run: 207, Test period: 163.13 (sec)    1.27	frames/sec	--	3dsmax_ProjectSoane_Shaded
+Sat May 22 16:40:08 2021
+Number of frames run: 206, Test period: 142.06 (sec)    1.45	frames/sec	--	3dsmax_ProjectSoane_Wireframe
+Sat May 22 16:40:45 2021
+Number of frames run: 270, Test period: 19.38 (sec)   13.94	frames/sec	--	3dsmax_HugeFish_Wireframe
+Sat May 22 16:41:29 2021
+Number of frames run: 270, Test period: 21.95 (sec)   12.30	frames/sec	--	3dsmax_HugeFish_Shaded
+Sat May 22 16:41:58 2021
+Number of frames run: 122, Test period: 15.45 (sec)    7.89	frames/sec	--	3dsmax_Office_Realistic
+Sat May 22 16:42:34 2021
+Number of frames run: 144, Test period: 21.73 (sec)    6.63	frames/sec	--	3dsmax_Office_Shaded
+Sat May 22 16:43:17 2021
+Number of frames run: 40, Test period: 17.55 (sec)    2.28	frames/sec	--	3dsmax_Office_RealisticMats

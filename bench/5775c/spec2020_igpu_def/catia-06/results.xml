@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Results Name="catia-06" Threads="1" Processes="1">
+    <Test Index="1" Weight="14.28" Frames="103" Seconds="17.44" FPS="5.91" TimeStamp="05/22/21 16:44:05" />
+    <Test Index="2" Weight="14.28" Frames="226" Seconds="25.84" FPS="8.74" TimeStamp="05/22/21 16:44:53" />
+    <Test Index="3" Weight="0.00" Frames="1098" Seconds="20.91" FPS="52.52" TimeStamp="05/22/21 16:45:25" />
+    <Test Index="4" Weight="14.28" Frames="520" Seconds="19.92" FPS="26.10" TimeStamp="05/22/21 16:46:05" />
+    <Test Index="5" Weight="14.29" Frames="0" Seconds="0.00" FPS="-nan(ind)" TimeStamp="05/22/21 16:46:25" />
+    <Test Index="6" Weight="14.29" Frames="0" Seconds="0.00" FPS="-nan(ind)" TimeStamp="05/22/21 16:46:30" />
+    <Test Index="7" Weight="14.29" Frames="0" Seconds="0.00" FPS="-nan(ind)" TimeStamp="05/22/21 16:46:33" />
+    <Test Index="8" Weight="14.29" Frames="0" Seconds="0.00" FPS="-nan(ind)" TimeStamp="05/22/21 16:46:37" />
+    <Composite Score="-nan(ind)" />
+</Results>

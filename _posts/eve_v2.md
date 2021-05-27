@@ -42,7 +42,7 @@ published: false  #write true to publish this article.
 ## 游戏
 既然Xe核显的性能这么强劲，不如来玩玩一些游戏测试一下。
 ### 反恐精英：全球攻势
-### 极品飞车
+### GTA5
 # 性能
 ## PCMark 10性能测试
 ## PCMark 8续航测试
